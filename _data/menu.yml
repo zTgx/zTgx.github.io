@@ -18,9 +18,17 @@ entries:
   - title: posts by category
     post_list:
       category: rust
-      show_more: false
+      show_more: true
       show_more_text: See more posts...
       show_more_url: rust-archive.html
+  
+  - title: category
+    entries:
+      - title: rust
+        post_list:
+          limit: 1
+          show_more: false
+          show_more_url: rust-archive.html
       
   - title: about
     url: about
