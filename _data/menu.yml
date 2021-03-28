@@ -4,11 +4,9 @@
 entries:
   - title: info
     entries:
-      - title: 打字员
+      - title: Typoer
       - title: not perfect, but persist
-      - title: github repo
-        url: https://github.com/zTgx
-      - title: "<a title='豆瓣' target='_blank' href='https://www.douban.com/people/beautifularea'>豆瓣</a> | <a title='hoopics' target='_blank' href='http://www.hoopics.cn'>hoopics</a>"
+      - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a> | <a title='豆瓣' target='_blank' href='https://www.douban.com/people/beautifularea'>豆瓣</a> | <a title='hoopics' target='_blank' href='http://www.hoopics.cn'>hoopics</a>"
 
   - title: all posts
     post_list:
@@ -23,9 +21,9 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
   - title: about
     url: about
+    
+  - title: rss
+    url: feed.xml
