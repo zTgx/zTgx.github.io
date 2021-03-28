@@ -20,7 +20,7 @@ entries:
       category: rust
       show_more: true
       show_more_text: See more posts...
-      show_more_url: archive.html
+      show_more_url: rust-archive
   
   - title: about
     url: about
