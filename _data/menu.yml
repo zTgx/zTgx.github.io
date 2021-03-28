@@ -8,7 +8,7 @@ entries:
       - title: not perfect, but persist
       - title: github repo
         url: https://github.com/zTgx
-      - title: "<a title="豆瓣" aria-label="豆瓣" target="_blank" href="https://www.douban.com/people/beautifularea">豆瓣</a>"
+      - title: "<a title='豆瓣' target="_blank" href='https://www.douban.com/people/beautifularea'>豆瓣</a>"
 
   - title: all posts
     post_list:
