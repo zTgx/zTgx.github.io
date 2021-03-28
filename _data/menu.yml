@@ -19,12 +19,16 @@ entries:
     entries:
       - title: Rust小分队
         post_list:
+          limit: 3
           category: rust
+          show_more_text: See more posts...
           show_more_url: archives/rust-archive.html
       
       - title: 刨根儿问底拦不住
         post_list:
+          limit: 3
           category: dive
+          show_more_text: See more posts...
           show_more_url: archives/rust-archive.html
     
       
