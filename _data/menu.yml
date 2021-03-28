@@ -17,18 +17,11 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-    post_list:
       category: rust
       show_more: true
       show_more_text: See more posts...
       show_more_url: rust-archive.html
       
-      
-  
   - title: about
     url: about
     
