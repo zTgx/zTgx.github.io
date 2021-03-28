@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+You miss me, be right back.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+<a title='github' target='_blank' href='https://github.com/zTgx'>github</a> | <a title='douban' target='_blank' href='https://www.douban.com/people/beautifularea'>douban</a> | <a title='hoopics' target='_blank' href='http://www.hoopics.cn'>hoopics</a>
