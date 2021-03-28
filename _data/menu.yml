@@ -18,12 +18,14 @@ entries:
   - title: posts by category
     entries:
       - title: Rust小分队
-        category: rust
-        show_more_url: rust-archive.html
+        post_list:
+          category: rust
+          show_more_url: rust-archive.html
       
       - title: 刨根问底儿栏目组
-        category: dive
-        show_more_url: rust-archive.html
+        post_list:
+          category: dive
+          show_more_url: rust-archive.html
     
       
   - title: about
