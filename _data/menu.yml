@@ -18,7 +18,7 @@ entries:
   - title: posts by category
     post_list:
       category: rust
-      show_more: true
+      show_more: false
       show_more_text: See more posts...
       show_more_url: rust-archive.html
       
