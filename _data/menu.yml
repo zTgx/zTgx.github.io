@@ -17,10 +17,10 @@ entries:
 
   - title: posts by category
     post_list:
-      category: Rust小分队
+      category: Rust
       show_more: true
       show_more_text: See more posts...
-      show_more_url: Rust小分队-archive.html
+      show_more_url: Rust-archive.html
   
   - title: about
     url: about
