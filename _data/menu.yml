@@ -33,6 +33,13 @@ entries:
           show_more_text: See more posts...
           show_more_url: archives/dive-archive.html
     
+      - title: Boost大杂院
+        post_list:
+          limit: 3
+          category: boost
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archives/boost-archive.html
       
   - title: about
     url: about
