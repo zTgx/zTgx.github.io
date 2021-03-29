@@ -40,6 +40,14 @@ entries:
           show_more: true
           show_more_text: See more posts...
           show_more_url: archives/boost-archive.html
+
+      - title: Linux维修小分队
+        post_list:
+          limit: 3
+          category: linux
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archives/linux-archive.html
       
   - title: about
     url: about
