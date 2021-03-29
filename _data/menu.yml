@@ -31,7 +31,7 @@ entries:
           category: dive
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archives/rust-archive.html
+          show_more_url: archives/dive-archive.html
     
       
   - title: about
