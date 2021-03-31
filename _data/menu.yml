@@ -33,7 +33,7 @@ entries:
           show_more_text: See more posts...
           show_more_url: archives/dive-archive.html
       
-      - title: 算法转换小分队
+      - title: 算法转化小分队
         post_list:
           limit: 3
           category: algorithm
