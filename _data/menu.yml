@@ -17,6 +17,14 @@ entries:
 
   - title: posts by category
     entries:
+      - title: 工作小分队
+        post_list:
+          limit: 3
+          category: work
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archives/work-archive.html
+
       - title: Rust小分队
         post_list:
           limit: 3
