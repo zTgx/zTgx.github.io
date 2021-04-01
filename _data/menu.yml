@@ -17,7 +17,7 @@ entries:
 
   - title: posts by category
     entries:
-      - title: 工作小分队
+      - title: 一线工作小分队
         post_list:
           limit: 3
           category: work
