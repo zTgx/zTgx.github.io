@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: boost
-title: All posts of category 'Boost大杂院'
+which_category: work
+title: All posts of category '一线工作小分队'
 ---
