@@ -25,6 +25,14 @@ entries:
           show_more_text: See more posts...
           show_more_url: archives/work-archive.html
 
+      - title: 安全生产小分队
+        post_list:
+          limit: 3
+          category: crypto
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archives/crypto-archive.html
+
       - title: Rust小分队
         post_list:
           limit: 3
@@ -40,15 +48,7 @@ entries:
           show_more: true
           show_more_text: See more posts...
           show_more_url: archives/dive-archive.html
-      
-      - title: 算法转化小分队
-        post_list:
-          limit: 3
-          category: algorithm
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/algorithm-archive.html
-    
+          
       - title: Boost大杂院
         post_list:
           limit: 3
