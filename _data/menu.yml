@@ -33,6 +33,14 @@ entries:
           show_more_text: See more posts...
           show_more_url: archives/crypto-archive.html
 
+      - title: ipfs小分队
+        post_list:
+          limit: 3
+          category: ipfs
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archives/ipfs-archive.html
+
       - title: Rust小分队
         post_list:
           limit: 3
