@@ -27,7 +27,7 @@ entries:
 
       - title: 安全生产小分队
         post_list:
-          limit: 0
+          limit: 1
           category: crypto
           show_more: true
           show_more_text: See more posts...
@@ -35,7 +35,7 @@ entries:
 
       - title: ipfs小分队
         post_list:
-          limit: 3
+          limit: 1
           category: ipfs
           show_more: true
           show_more_text: See more posts...
