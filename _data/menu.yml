@@ -27,7 +27,7 @@ entries:
 
       - title: 安全生产小分队
         post_list:
-          limit: 3
+          limit: 0
           category: crypto
           show_more: true
           show_more_text: See more posts...
