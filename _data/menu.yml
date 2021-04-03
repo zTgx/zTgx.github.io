@@ -19,7 +19,7 @@ entries:
     entries:
       - title: 一线工作小分队
         post_list:
-          limit: 3
+          limit: 0
           category: work
           show_more: true
           show_more_text: See more posts...
@@ -27,7 +27,7 @@ entries:
 
       - title: 安全生产小分队
         post_list:
-          limit: 1
+          limit: 0
           category: crypto
           show_more: true
           show_more_text: See more posts...
@@ -35,7 +35,7 @@ entries:
 
       - title: ipfs小分队
         post_list:
-          limit: 1
+          limit: 0
           category: ipfs
           show_more: true
           show_more_text: See more posts...
@@ -43,7 +43,7 @@ entries:
 
       - title: Rust小分队
         post_list:
-          limit: 3
+          limit: 0
           category: rust
           show_more: true
           show_more_text: See more posts...
@@ -51,7 +51,7 @@ entries:
                 
       - title: Boost大杂院
         post_list:
-          limit: 3
+          limit: 0
           category: boost
           show_more: true
           show_more_text: See more posts...
@@ -59,7 +59,7 @@ entries:
 
       - title: Linux维修小分队
         post_list:
-          limit: 3
+          limit: 0
           category: linux
           show_more: true
           show_more_text: See more posts...
