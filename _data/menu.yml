@@ -65,6 +65,16 @@ entries:
           show_more_text: See more posts...
           show_more_url: archives/linux-archive.html
       
+      - title: 星辰小分队
+        entries:
+          - title: OpenCL小分队
+            post_list:
+              limit: 0
+              category: opencl
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/opencl-archive.html
+
   - title: about
     url: about
     
