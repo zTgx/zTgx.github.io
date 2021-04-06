@@ -10,7 +10,7 @@ entries:
 
   - title: all posts
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
@@ -25,22 +25,6 @@ entries:
           show_more_text: See more posts...
           show_more_url: archives/work-archive.html
 
-      - title: 安全生产小分队
-        post_list:
-          limit: 0
-          category: crypto
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/crypto-archive.html
-
-      - title: ipfs小分队
-        post_list:
-          limit: 0
-          category: ipfs
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/ipfs-archive.html
-
       - title: Rust小分队
         post_list:
           limit: 0
@@ -48,25 +32,17 @@ entries:
           show_more: true
           show_more_text: See more posts...
           show_more_url: archives/rust-archive.html
-                
-      - title: Boost大杂院
-        post_list:
-          limit: 0
-          category: boost
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/boost-archive.html
-
-      - title: Linux维修小分队
-        post_list:
-          limit: 0
-          category: linux
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/linux-archive.html
       
       - title: 星辰小分队
         entries:
+          - title: ipfs小分队
+            post_list:
+              limit: 0
+              category: ipfs
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/ipfs-archive.html
+
           - title: OpenCL小分队
             post_list:
               limit: 0
@@ -74,6 +50,32 @@ entries:
               show_more: true
               show_more_text: See more posts...
               show_more_url: archives/opencl-archive.html
+
+      - title: 大杂院 
+        entries:  
+          - title: 安全生产小分队
+            post_list:
+              limit: 0
+              category: crypto
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/crypto-archive.html
+
+          - title: Boost大杂院
+            post_list:
+              limit: 0
+              category: boost
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/boost-archive.html
+
+          - title: Linux维修小分队
+            post_list:
+              limit: 0
+              category: linux
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/linux-archive.html
 
   - title: about
     url: about
