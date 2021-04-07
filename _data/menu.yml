@@ -64,7 +64,7 @@ entries:
           - title: C++巡逻小分队
             post_list:
               limit: 0
-              category: c++
+              category: cxx
               show_more: true
               show_more_text: See more posts...
               show_more_url: archives/cxx-archive.html
