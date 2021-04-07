@@ -35,13 +35,21 @@ entries:
       
       - title: 星辰小分队
         entries:
-          - title: ipfs小分队
+          - title: IPFS小分队
             post_list:
               limit: 0
               category: ipfs
               show_more: true
               show_more_text: See more posts...
               show_more_url: archives/ipfs-archive.html
+
+          - title: EVM小分队
+            post_list:
+              limit: 0
+              category: evm
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/evm-archive.html
 
           - title: OpenCL小分队
             post_list:
