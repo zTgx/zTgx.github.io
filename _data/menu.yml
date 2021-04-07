@@ -53,14 +53,6 @@ entries:
 
       - title: 大杂院 
         entries:  
-          - title: 安全生产小分队
-            post_list:
-              limit: 0
-              category: crypto
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/crypto-archive.html
-
           - title: Boost大杂院
             post_list:
               limit: 0
@@ -68,6 +60,22 @@ entries:
               show_more: true
               show_more_text: See more posts...
               show_more_url: archives/boost-archive.html
+
+          - title: C++巡逻小分队
+            post_list:
+              limit: 0
+              category: c++
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/cxx-archive.html
+
+          - title: 安全生产小分队
+            post_list:
+              limit: 0
+              category: crypto
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/crypto-archive.html
 
           - title: Linux维修小分队
             post_list:
