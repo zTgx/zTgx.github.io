@@ -18,20 +18,22 @@ entries:
   - title: posts by category
     entries:
       - title: 工作实现我价值
-        post_list:
-          limit: 0
-          category: work
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/work-archive.html
+        url: archives/work-archive.html
+        # post_list:
+        #   limit: 0
+        #   category: work
+        #   show_more: true
+        #   show_more_text: See more posts...
+        #   show_more_url: archives/work-archive.html
       
       - title: 阅读充实我内心
-        post_list:
-          limit: 0
-          category: read
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: archives/read-archive.html
+        url: archives/read-archive.html
+        # post_list:
+        #   limit: 0
+        #   category: read
+        #   show_more: true
+        #   show_more_text: See more posts...
+        #   show_more_url: archives/read-archive.html
       
       - title: 星辰小分队
         entries:
@@ -45,70 +47,78 @@ entries:
             #   show_more_url: archives/ipfs-archive.html
 
           - title: EVM小分队
-            post_list:
-              limit: 0
-              category: evm
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/evm-archive.html
+            url: archives/evm-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: evm
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/evm-archive.html
 
           - title: OpenCL小分队
-            post_list:
-              limit: 0
-              category: opencl
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/opencl-archive.html
+            url: archives/opencl-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: opencl
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/opencl-archive.html
 
           - title: Math小分队
-            post_list:
-              limit: 0
-              category: math
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/math-archive.html
+            url: archives/math-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: math
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/math-archive.html
 
       - title: 大杂院 
         entries:  
           - title: Rust小分队
-            post_list:
-              limit: 0
-              category: rust
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/rust-archive.html
+            url: archives/rust-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: rust
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/rust-archive.html
 
           - title: Boost大杂院
-            post_list:
-              limit: 0
-              category: boost
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/boost-archive.html
+            url: archives/boost-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: boost
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/boost-archive.html
 
           - title: C++巡逻小分队
-            post_list:
-              limit: 0
-              category: cxx
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/cxx-archive.html
+            url: archives/cxx-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: cxx
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/cxx-archive.html
 
           - title: 安全生产小分队
-            post_list:
-              limit: 0
-              category: crypto
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/crypto-archive.html
+            url: archives/crypto-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: crypto
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/crypto-archive.html
 
           - title: Linux维修小分队
-            post_list:
-              limit: 0
-              category: linux
-              show_more: true
-              show_more_text: See more posts...
-              show_more_url: archives/linux-archive.html
+            url: archives/linux-archive.html
+            # post_list:
+            #   limit: 0
+            #   category: linux
+            #   show_more: true
+            #   show_more_text: See more posts...
+            #   show_more_url: archives/linux-archive.html
 
   - title: about
     url: about
