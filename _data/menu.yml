@@ -17,21 +17,21 @@ entries:
 
   - title: posts by category
     entries:
-      - title: 工作使人进步
+      - title: 工作实现我价值
         post_list:
           limit: 0
           category: work
           show_more: true
           show_more_text: See more posts...
           show_more_url: archives/work-archive.html
-
-      - title: Rust小分队
+      
+      - title: 阅读充实我内心
         post_list:
           limit: 0
-          category: rust
+          category: read
           show_more: true
           show_more_text: See more posts...
-          show_more_url: archives/rust-archive.html
+          show_more_url: archives/read-archive.html
       
       - title: 星辰小分队
         entries:
@@ -69,6 +69,14 @@ entries:
 
       - title: 大杂院 
         entries:  
+          - title: Rust小分队
+            post_list:
+              limit: 0
+              category: rust
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/rust-archive.html
+
           - title: Boost大杂院
             post_list:
               limit: 0
