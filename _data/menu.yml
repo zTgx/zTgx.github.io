@@ -59,6 +59,14 @@ entries:
               show_more_text: See more posts...
               show_more_url: archives/opencl-archive.html
 
+          - title: Math小分队
+            post_list:
+              limit: 0
+              category: math
+              show_more: true
+              show_more_text: See more posts...
+              show_more_url: archives/math-archive.html
+
       - title: 大杂院 
         entries:  
           - title: Boost大杂院
