@@ -34,6 +34,10 @@ entries:
           show_more_url: archives/read-archive.html
       
       - title: 星辰小分队
+        limit: 3
+        show_more: true
+        show_more_text: 查看更多星辰小分队
+        show_more_url: archives/star-archive.html
         entries:
           - title: IPFS小分队
             post_list:
