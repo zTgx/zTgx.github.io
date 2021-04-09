@@ -35,9 +35,9 @@ entries:
         #   show_more_text: See more posts...
         #   show_more_url: archives/read-archive.html
       
-      - title: 星辰小分队
+      - title: 星辰大海
         entries:
-          - title: IPFS小分队
+          - title: IPFS
             url: archives/ipfs-archive.html
             # post_list:
             #   limit: 0
@@ -46,7 +46,7 @@ entries:
             #   show_more_text: See more posts...
             #   show_more_url: archives/ipfs-archive.html
 
-          - title: EVM小分队
+          - title: EVM
             url: archives/evm-archive.html
             # post_list:
             #   limit: 0
@@ -55,7 +55,7 @@ entries:
             #   show_more_text: See more posts...
             #   show_more_url: archives/evm-archive.html
 
-          - title: OpenCL小分队
+          - title: OpenCL
             url: archives/opencl-archive.html
             # post_list:
             #   limit: 0
@@ -64,7 +64,7 @@ entries:
             #   show_more_text: See more posts...
             #   show_more_url: archives/opencl-archive.html
 
-          - title: Math小分队
+          - title: Math
             url: archives/math-archive.html
             # post_list:
             #   limit: 0
