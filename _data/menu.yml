@@ -111,7 +111,10 @@ entries:
             #   show_more_text: See more posts...
             #   show_more_url: archives/crypto-archive.html
 
-          - title: Linux维修小分队
+          - title: cmake工程小分队
+            url: archives/cmake-archive.html
+
+          - title: Linux后勤小分队
             url: archives/linux-archive.html
             # post_list:
             #   limit: 0
