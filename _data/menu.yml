@@ -28,12 +28,6 @@ entries:
       
       - title: 阅读充实我内心
         url: archives/read-archive.html
-        # post_list:
-        #   limit: 0
-        #   category: read
-        #   show_more: true
-        #   show_more_text: See more posts...
-        #   show_more_url: archives/read-archive.html
       
       - title: 星辰大海
         entries:
@@ -48,80 +42,35 @@ entries:
 
           - title: EVM
             url: archives/evm-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: evm
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/evm-archive.html
 
           - title: OpenCL
             url: archives/opencl-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: opencl
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/opencl-archive.html
 
           - title: Math
             url: archives/math-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: math
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/math-archive.html
+
+          - title: crypto
+            url: archives/crypto-archive.html
 
       - title: 大杂院 
         entries:  
-          - title: Rust小分队
+          - title: Rust
             url: archives/rust-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: rust
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/rust-archive.html
 
-          - title: Boost大杂院
+          - title: Boost
             url: archives/boost-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: boost
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/boost-archive.html
 
-          - title: C++巡逻小分队
+          - title: C++
             url: archives/cxx-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: cxx
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/cxx-archive.html
 
-          - title: 安全生产小分队
-            url: archives/crypto-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: crypto
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/crypto-archive.html
-
-          - title: cmake工程小分队
+          - title: cmake
             url: archives/cmake-archive.html
 
-          - title: Linux后勤小分队
+          - title: git
+            url: archives/git-archive.html
+
+          - title: linux
             url: archives/linux-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: linux
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/linux-archive.html
 
   - title: about
     url: about
