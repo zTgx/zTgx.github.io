@@ -17,7 +17,7 @@ entries:
 
   - title: posts by category
     entries:
-      - title: 工作实现我价值
+      - title: Typing
         url: archives/work-archive.html
         # post_list:
         #   limit: 0
@@ -26,10 +26,10 @@ entries:
         #   show_more_text: See more posts...
         #   show_more_url: archives/work-archive.html
       
-      - title: 阅读充实我内心
+      - title: Reading
         url: archives/read-archive.html
       
-      - title: 星辰大海
+      - title: Diving
         entries:
           - title: IPFS
             url: archives/ipfs-archive.html
@@ -52,7 +52,7 @@ entries:
           - title: crypto
             url: archives/crypto-archive.html
 
-      - title: 大杂院 
+      - title: Miscellaneousness 
         entries:  
           - title: Rust
             url: archives/rust-archive.html
