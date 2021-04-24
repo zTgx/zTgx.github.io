@@ -26,8 +26,8 @@ entries:
         #   show_more_text: See more posts...
         #   show_more_url: archives/work-archive.html
       
-      - title: Reading
-        url: archives/read-archive.html
+      - title: Personal
+        url: archives/personal-archive.html
       
       - title: Diving
         entries:
