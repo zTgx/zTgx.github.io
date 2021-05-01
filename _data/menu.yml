@@ -62,6 +62,9 @@ entries:
 
           - title: C++
             url: archives/cxx-archive.html
+            
+          - title: Golang
+            url: archives/go-archive.html
 
           - title: cmake
             url: archives/cmake-archive.html
