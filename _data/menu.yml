@@ -32,6 +32,9 @@ entries:
       - title: Paper
         url: archives/paper-archive.html
       
+      - title: English
+        url: archives/english-archive.html
+
       - title: Diving
         entries:
           - title: IPFS
