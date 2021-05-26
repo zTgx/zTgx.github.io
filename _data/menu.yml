@@ -72,6 +72,9 @@ entries:
           - title: Golang
             url: archives/go-archive.html
 
+          - title: docker&others
+            url: archives/docker-archive.html
+
           - title: cmake
             url: archives/cmake-archive.html
 
