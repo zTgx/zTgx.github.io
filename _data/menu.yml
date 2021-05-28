@@ -42,7 +42,10 @@ entries:
             url: archives/go-archive.html
 
           - title: JavaScript
-            url: archives/cxx-archive.html
+            url: archives/js-archive.html
+          
+          - title: py
+            url: archives/py-archive.html
 
       # 研究领域
       - title: Diving
@@ -68,12 +71,12 @@ entries:
           - title: crypto
             url: archives/crypto-archive.html
 
-      # 大杂烩
-      - title: Miscellaneousness 
-        entries:  
           - title: Paper
             url: archives/paper-archive.html
-          
+
+      # 大杂烩
+      - title: Miscellaneousness 
+        entries:          
           - title: Boost
             url: archives/boost-archive.html
 
