@@ -28,13 +28,23 @@ entries:
       
       - title: Personal
         url: archives/personal-archive.html
-
-      - title: Paper
-        url: archives/paper-archive.html
       
-      - title: English
-        url: archives/english-archive.html
+      # 编程语言
+      - title: Programming Language 
+        entries:  
+          - title: Rust
+            url: archives/rust-archive.html
 
+          - title: C++
+            url: archives/cxx-archive.html
+            
+          - title: Go
+            url: archives/go-archive.html
+
+          - title: JavaScript
+            url: archives/cxx-archive.html
+
+      # 研究领域
       - title: Diving
         entries:
           - title: IPFS
@@ -58,19 +68,14 @@ entries:
           - title: crypto
             url: archives/crypto-archive.html
 
+      # 大杂烩
       - title: Miscellaneousness 
         entries:  
-          - title: Rust
-            url: archives/rust-archive.html
-
+          - title: Paper
+            url: archives/paper-archive.html
+          
           - title: Boost
             url: archives/boost-archive.html
-
-          - title: C++
-            url: archives/cxx-archive.html
-            
-          - title: Golang
-            url: archives/go-archive.html
 
           - title: docker&others
             url: archives/docker-archive.html
