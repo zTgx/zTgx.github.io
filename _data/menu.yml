@@ -28,7 +28,7 @@ entries:
       
       - title: Personal
         url: archives/personal-archive.html
-      
+
       # 编程语言
       - title: Programming Language 
         entries:  
@@ -68,7 +68,7 @@ entries:
           - title: Math
             url: archives/math-archive.html
 
-          - title: crypto
+          - title: Crypto
             url: archives/crypto-archive.html
 
           - title: Paper
@@ -80,17 +80,20 @@ entries:
           - title: Boost
             url: archives/boost-archive.html
 
-          - title: docker&others
+          - title: Docker&others
             url: archives/docker-archive.html
 
-          - title: cmake
+          - title: Cmake
             url: archives/cmake-archive.html
 
-          - title: git
+          - title: Git
             url: archives/git-archive.html
 
-          - title: linux
+          - title: Linux
             url: archives/linux-archive.html
+
+          - title: Weekly
+            url: archives/week-archive.html
 
   - title: about
     url: about
