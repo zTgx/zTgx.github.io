@@ -92,12 +92,6 @@ entries:
           - title: Linux
             url: archives/linux-archive.html
 
-          - title: Weekly
-            url: archives/week-archive.html
-
-          - title: Offer
-            url: archives/offer-archive.html
-
   - title: about
     url: about
     
