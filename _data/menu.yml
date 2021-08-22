@@ -38,6 +38,9 @@ entries:
           - title: C++
             url: archives/cxx-archive.html
             
+          - title: Clojure
+            url: archives/clojure-archive.html
+
           - title: Go
             url: archives/go-archive.html
 
