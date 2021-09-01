@@ -28,6 +28,9 @@ entries:
       
       - title: Personal
         url: archives/personal-archive.html
+      
+      - title: Personal
+        url: archives/platform-archive.html
 
       # 编程语言
       - title: Programming Language 
