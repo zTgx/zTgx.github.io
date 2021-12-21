@@ -80,6 +80,9 @@ entries:
           - title: Paper
             url: archives/paper-archive.html
 
+          - title: DB
+            url: archives/db-archive.html
+
       # 大杂烩
       - title: Miscellaneousness 
         entries:          
