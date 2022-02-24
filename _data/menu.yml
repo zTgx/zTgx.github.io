@@ -29,8 +29,6 @@ entries:
       - title: Personal
         url: archives/personal-archive.html
       
-      - title: Platform
-        url: archives/platform-archive.html
 
       # 编程语言
       - title: Programming Language 
@@ -56,6 +54,9 @@ entries:
       # 研究领域
       - title: Diving
         entries:
+          - title: Substrate
+            url: archives/substrate-archive.html
+
           - title: IPFS
             url: archives/ipfs-archive.html
             # post_list:
@@ -100,6 +101,9 @@ entries:
 
           - title: Linux
             url: archives/linux-archive.html
+
+          - title: Platform
+            url: archives/platform-archive.html
 
   - title: about
     url: about
