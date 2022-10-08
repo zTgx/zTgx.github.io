@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: Typoer
+      - title: A Typoer
       - title: not perfect, but persist
       - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a> | <a title='douban' target='_blank' href='https://www.douban.com/people/beautifularea'>douban</a> | <a title='hoopics' target='_blank' href='http://www.hoopics.cn'>hoopics</a>"
 
@@ -17,7 +17,7 @@ entries:
 
   - title: posts by category
     entries:
-      - title: Typing
+      - title: Working
         url: archives/work-archive.html
         # post_list:
         #   limit: 0
