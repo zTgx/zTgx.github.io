@@ -17,7 +17,7 @@ entries:
 
   - title: posts by category
     entries:
-      - title: Working
+      - title: Work
         url: archives/work-archive.html
         # post_list:
         #   limit: 0
@@ -26,11 +26,11 @@ entries:
         #   show_more_text: See more posts...
         #   show_more_url: archives/work-archive.html
       
-      - title: Personal
+      - title: Self
         url: archives/personal-archive.html
-      
-      - title: UnrealEngine
-        url: archives/ue-archive.html
+
+      - title: TEE
+        url: archives/tee-archive.html
 
       # 编程语言
       - title: Programming Language 
@@ -59,6 +59,9 @@ entries:
           - title: Substrate
             url: archives/substrate-archive.html
 
+          - title: UE
+            url: archives/ue-archive.html
+            
           - title: IPFS
             url: archives/ipfs-archive.html
             # post_list:
