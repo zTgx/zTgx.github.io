@@ -1,12 +1,10 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
   - title: info
     entries:
-      - title: A Typoer
+      - title: I'm a Typoer
       - title: not perfect, but persist
-      - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a>"
+      - title: github
+        url: https://github.com/zTgx
 
   - title: all posts
     post_list:
