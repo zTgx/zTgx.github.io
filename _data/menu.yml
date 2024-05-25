@@ -6,7 +6,7 @@ entries:
     entries:
       - title: A Typoer
       - title: not perfect, but persist
-      - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a>
+      - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a>"
 
   - title: all posts
     post_list:
