@@ -6,109 +6,22 @@ entries:
     entries:
       - title: A Typoer
       - title: not perfect, but persist
-      - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a> | <a title='douban' target='_blank' href='https://www.douban.com/people/beautifularea'>douban</a> | <a title='hoopics' target='_blank' href='http://www.hoopics.cn'>hoopics</a>"
+      - title: "<a title='github' target='_blank' href='https://github.com/zTgx'>github</a>
 
   - title: all posts
     post_list:
-      limit: 10
+      limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
   - title: posts by category
-    entries:
-      - title: Work
-        url: archives/work-archive.html
-        # post_list:
-        #   limit: 0
-        #   category: work
-        #   show_more: true
-        #   show_more_text: See more posts...
-        #   show_more_url: archives/work-archive.html
-      
-      - title: Self
+    entries:      
+      - title: personal
         url: archives/personal-archive.html
 
-      - title: TEE
-        url: archives/tee-archive.html
-
-      # 编程语言
-      - title: Programming Language 
-        entries:  
-          - title: Rust
-            url: archives/rust-archive.html
-
-          - title: C++
-            url: archives/cxx-archive.html
-            
-          - title: Clojure
-            url: archives/clojure-archive.html
-
-          - title: Go
-            url: archives/go-archive.html
-
-          - title: JavaScript
-            url: archives/js-archive.html
-          
-          - title: Python
-            url: archives/py-archive.html
-
-      # 研究领域
-      - title: Diving
-        entries:
-          - title: Substrate
-            url: archives/substrate-archive.html
-
-          - title: UE
-            url: archives/ue-archive.html
-            
-          - title: IPFS
-            url: archives/ipfs-archive.html
-            # post_list:
-            #   limit: 0
-            #   category: ipfs
-            #   show_more: true
-            #   show_more_text: See more posts...
-            #   show_more_url: archives/ipfs-archive.html
-
-          - title: EVM
-            url: archives/evm-archive.html
-
-          - title: OpenCL
-            url: archives/opencl-archive.html
-
-          - title: Math
-            url: archives/math-archive.html
-
-          - title: Crypto
-            url: archives/crypto-archive.html
-
-          - title: Paper
-            url: archives/paper-archive.html
-
-          - title: DB
-            url: archives/db-archive.html
-
-      # 大杂烩
-      - title: Miscellaneousness 
-        entries:          
-          - title: Boost
-            url: archives/boost-archive.html
-
-          - title: Docker&others
-            url: archives/docker-archive.html
-
-          - title: Cmake
-            url: archives/cmake-archive.html
-
-          - title: Git
-            url: archives/git-archive.html
-
-          - title: Linux
-            url: archives/linux-archive.html
-
-          - title: Platform
-            url: archives/platform-archive.html
+      - title: rust programming language
+        url: archives/rust-archive.html
 
   - title: about
     url: about
