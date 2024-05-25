@@ -3,6 +3,5 @@ layout: page
 title: About
 ---
 
-Reach Me: beautifularea # gmail.com
+![image](https://raw.githubusercontent.com/zTgx/zTgx.github.io/master/_images/41/05/mr-reese.png)
 
-You miss me, be right back.
