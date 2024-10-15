@@ -15,11 +15,14 @@ entries:
 
   - title: posts by category
     entries:      
-      - title: personal
+      - title: Personal
         url: archives/personal-archive.html
 
-      - title: rust programming language
+      - title: Rust
         url: archives/rust-archive.html
+      
+      - title: SGX
+        url: archives/sgx.html
 
   - title: about
     url: about
