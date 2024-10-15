@@ -21,8 +21,8 @@ entries:
       - title: Rust
         url: archives/rust-archive.html
       
-      - title: SGX
-        url: archives/sgx.html
+      - title: TEE
+        url: archives/tee-archive.html
 
   - title: about
     url: about
